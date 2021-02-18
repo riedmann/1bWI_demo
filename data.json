@@ -1,0 +1,48 @@
+{
+    "people": [
+        {
+            "id": 1,
+            "firstName": "hans",
+            "lastName": "Müller",
+            "cars":[
+                {
+                    "id": 1,
+                    "brand": "opel",
+                    "color": "green"
+                },
+                {
+                    "id": 2,
+                    "brand": "lena",
+                    "color": "Müller"
+                }         
+            ]
+        },
+        {
+            "id": 17,
+            "firstName": "hans",
+            "lastName": "Beier",
+            "cars":[
+                {
+                    "id": 1,
+                    "brand": "opel",
+                    "color": "green"
+                },
+                {
+                    "id": 2,
+                    "brand": "lena",
+                    "color": "Müller"
+                }         
+            ]
+        },
+        {
+            "id": 17,
+            "firstName": "hans",
+            "lastName": "Winter"
+        }
+    ]
+}
+
+
+{
+    "name":"peter"
+}

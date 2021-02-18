@@ -5,6 +5,7 @@ console.log("Tolle Sache");
 let a = 7;
 let b = 8;
 let c = 10;
+let d = 17;
 
 // Berechne folgendes und gib das Eregebnis über console.log aus
 
